@@ -1,4 +1,4 @@
-# Reconstituição da página login do instagram
+# Reconstrução da página login do instagram
 
 Projeto desenvolvido na aula do curso Digital Innovation One, com alguns detalhes a mais! 
 
