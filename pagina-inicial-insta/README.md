@@ -2,7 +2,7 @@
 
 Projeto desenvolvido na aula do curso Digital Innovation One, com alguns detalhes a mais! 
 
-<p aligns="center"> <img src="img/animação.gif" width="800" height="400"> 
+<p aligns="center"> <img src="img/animação.gif" width="800" height="600"> 
 
 ### Linguagens utilizadas:
 
